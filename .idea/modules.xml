@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/LogUitls.iml" filepath="$PROJECT_DIR$/LogUitls.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/logutils/logutils.iml" filepath="$PROJECT_DIR$/logutils/logutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rssfeedlibrary/rssfeedlibrary.iml" filepath="$PROJECT_DIR$/rssfeedlibrary/rssfeedlibrary.iml" />
     </modules>
   </component>
 </project>
